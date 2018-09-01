@@ -1,0 +1,17 @@
+.picture
+{
+    width:100%;
+    height:300px;
+}
+.pic1 {
+    width: 100%;
+    height: 150px;
+}
+.pic2
+{
+    word-wrap:break-word;
+}
+.pic3
+{
+    margin:10px;
+}
